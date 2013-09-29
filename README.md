@@ -1,5 +1,5 @@
 # What is this
-This is a little experiment to hide comments on fimfiction and only set you friends see them, with some tinkering it should work with other sites. The concept is simple it encrypts your comment, posts the cipher inside a spoiler tag, and decrypts all comments in the comment list that contain ciphers for you.
+This is a little experiment to hide comments on fimfiction and only let you friends see them, with some tinkering it should work with other sites. The concept is simple it encrypts your comment, posts the cipher inside a spoiler tag, and decrypts all comments in the comment list that contain ciphers for you.
 
 This project is quick and dirty many improvements could be made. For instance it would be better to post the secret comments to a remote server and retrieve other users secret comments from that server and then injecting them into the regular comment lists. This would make the secret comments truly invisible to regular users and website staff.
 
