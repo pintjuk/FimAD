@@ -10,13 +10,13 @@ This project is quick and dirty many improvements could be made. For instance it
 2. install the ingle file script from this link http://userscripts.org/scripts/source/178853.user.js
 
 ## What will this script alter
-* ads a "Dark" button, click this button to post a sikret comment
-* ads a "spoiler" button, dont know why, remove the script that does it if you dont like it
-* dicrypts all coments that have been encrypted with this script
-* romevs eddit buttons on all your comments, this will not be nesasary in future versions. 
+* Adds a "Dark" button, click this button to post a secret comment.
+* Adds a "spoiler" button.
+* Decrypts all comments that have been encrypted with this script.
+* Remove edit buttons on all your comments, this will not be necessary in future versions.
 
 ## Where is the eddit button
-this simple demo does not fiture edditing, attempting to eddit an encrypted comment is bad. therefore this script removes all comment eddit buttons.
+This is a simple demo does and does not feature editing, attempting to edit an encrypted comment is bad. Therefore this script removes all comment edit buttons. This will be fixed soon. 
 
 ## sjcl.js 
 Stanford Javascript Crypto Library is not my code, cheak it out @ https://github.com/bitwiseshiftleft/sjcl
