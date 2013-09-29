@@ -5,9 +5,9 @@ This project is quick and dirty many improvements could be made. For instance it
 
 
 ## Istall
-If you are using muzzila then you should install greasmonky if you havn't don so already.
-click on the monky and click ad new script and paste the FimAD.user.js script into the into the greasmonkie script edditor.
-The last thing to do is to find your greasmonkie folder in thet you will find the folder for userscript you created, past sjcl.js into that folder.
+### for fast and easy install:
+1) Install greasemonkey ( if you are using chrome then you have it already ) https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+2) install the ingle file script from this link http://userscripts.org/scripts/source/178853.user.js
 
 ## What will this script alter
 * ads a "Dark" button, click this button to post a sikret comment
