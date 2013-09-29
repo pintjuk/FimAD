@@ -6,8 +6,8 @@ This project is quick and dirty many improvements could be made. For instance it
 
 ## Istall
 ### for fast and easy install:
-1) Install greasemonkey ( if you are using chrome then you have it already ) https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
-2) install the ingle file script from this link http://userscripts.org/scripts/source/178853.user.js
+1. Install greasemonkey ( if you are using chrome then you have it already ) https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+2. install the ingle file script from this link http://userscripts.org/scripts/source/178853.user.js
 
 ## What will this script alter
 * ads a "Dark" button, click this button to post a sikret comment
